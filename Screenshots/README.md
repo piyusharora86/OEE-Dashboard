@@ -1,4 +1,4 @@
-## Dashboard Screenshots
+# Dashboard Screenshots
 
 This folder contains visual previews of the Manufacturing OEE Dashboard developed using Microsoft Power BI.
 
